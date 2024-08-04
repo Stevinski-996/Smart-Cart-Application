@@ -1,0 +1,14 @@
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/Smart-Cart-Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/Smart-Cart-Application.AssemblyInfoInputs.cache
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/Smart-Cart-Application.AssemblyInfo.cs
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/Smart-Cart-Application.csproj.CoreCompileInputs.cache
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/bin/Debug/net8.0/Smart-Cart-Application
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/bin/Debug/net8.0/Smart-Cart-Application.deps.json
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/bin/Debug/net8.0/Smart-Cart-Application.runtimeconfig.json
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/bin/Debug/net8.0/Smart-Cart-Application.dll
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/bin/Debug/net8.0/Smart-Cart-Application.pdb
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/Smart-Cart-Application.dll
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/refint/Smart-Cart-Application.dll
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/Smart-Cart-Application.pdb
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/Smart-Cart-Application.genruntimeconfig.cache
+/Users/aaa/Desktop/Smart-Cart-Application/ShoppingCartApplication/obj/Debug/net8.0/ref/Smart-Cart-Application.dll
